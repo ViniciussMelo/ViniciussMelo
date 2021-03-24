@@ -3,8 +3,8 @@
 ### I'm Vinicius Spada Melo, Full-Stack Developer and passionate about Web Development 💻.
 
 - I'm from Brazil (🇧🇷).
-- I'm a .NET developer at [GVdasa](http://gvdasa.com.br/).
-- I'm learning at .NET and Javascript ecosystem: NodeJS | ReactJS | React Native.
+- Fullstack developer (.NET e Ext JS) at [GVdasa](http://gvdasa.com.br/).
+- Learning at .NET and Javascript ecosystem: NodeJS | ReactJS | React Native.
 
 <img alt="stats-vinicius" src="https://github-readme-stats.vercel.app/api?username=viniciussmelo&show_icons=true" />
 
