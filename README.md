@@ -4,7 +4,7 @@
 
 - I'm from Brazil (🇧🇷).
 - Fullstack developer (.NET e Ext JS) at [GVdasa](http://gvdasa.com.br/).
-- Learning at .NET and Javascript ecosystem: NodeJS | ReactJS | React Native.
+- Learning about .NET and Javascript ecosystem: NodeJS | ReactJS | React Native.
 
 <img alt="stats-vinicius" src="https://github-readme-stats.vercel.app/api?username=viniciussmelo&show_icons=true" />
 
