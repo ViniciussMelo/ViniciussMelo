@@ -3,7 +3,7 @@
 ### I'm Vinicius Spada Melo, Full-Stack Developer and passionate about Web Development 💻.
 
 <div>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysonmcechinel&layout=compact&langs_count=7"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussMelo&layout=compact&langs_count=7"/>
     <ul>
       <li>🇧🇷 I'm from Brazil</li>
       <li>💻 Full Stack Developer | Node.js | NestJS | ReactJS at [Infracommerce](https://www.infracommerce.com.br/).</li>
