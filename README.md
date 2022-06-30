@@ -8,8 +8,8 @@
       <li>🇧🇷 I'm from Brazil</li>
       <li>💻 Full Stack Developer | Node.js | NestJS | ReactJS at [Infracommerce](https://www.infracommerce.com.br/).</li>
       <li>📚 Computer Scientist</li>
-      <li>🤓 Knowledge about SQL / NoSQL, .NET and Javascript ecosystem: NodeJS | ReactJS | React Native.</li>
-      <li>☁️ Experience about GCP, Azure and AWS.
+      <li>🤓 Knowledge about SQL / NoSQL, Javascript ecosystem: NodeJS | ReactJS | React Native and .NET.</li>
+      <li>☁️ Experience about GCP, Azure, Firebase and AWS.
     </ul>    
 </div> 
 
@@ -56,6 +56,8 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
+
+##
 
 <div>
   <a href="https://www.linkedin.com/in/vinicius-spada-melo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
