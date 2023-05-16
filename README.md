@@ -6,7 +6,7 @@
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussMelo&layout=compact"/>
     <ul>
       <li>🇧🇷 I'm from Brazil</li>
-      <li>💻 Full Stack Developer | Node.js | NestJS | ReactJS at Infracommerce</li>
+      <li>💻 Software engineer - Node.js | NestJS | ReactJS | Microservice</li>
       <li>📚 Computer Scientist</li>
       <li>🤓 Knowledge about SQL / NoSQL, Javascript ecosystem: NodeJS | ReactJS | React Native and .NET</li>
       <li>☁️ Experience about GCP, Azure, Firebase and AWS</li>
