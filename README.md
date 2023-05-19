@@ -3,7 +3,7 @@
 ### I'm Vinicius Spada Melo, Full-Stack Developer and passionate about Web Development 💻.
 
 <div>
-    <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciussMelo&layout=compact"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussMelo"/>
     <ul>
       <li>🇧🇷 I'm from Brazil</li>
       <li>💻 Software engineer - Node.js | NestJS | ReactJS | Microservice</li>
