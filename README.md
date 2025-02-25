@@ -1,12 +1,12 @@
 ## Hello World 😁
 
-### I'm Vinicius Spada Melo, Full-Stack Developer and passionate about Web Development 💻.
+### I'm Vinicius Spada Melo, Senior Backend Developer and passionate about Web Development 💻.
 
 <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciussMelo&hide=php,html,css"/>
     <ul>
       <li>🇧🇷 I'm from Brazil</li>
-      <li>💻 Software engineer - Node.js | NestJS | ReactJS | Microservice</li>
+      <li>💻 Backend engineer - Node.js | NestJS | ReactJS | Microservice | AWS</li>
       <li>📚 Computer Scientist</li>
       <li>🤓 Knowledge about SQL / NoSQL, Javascript ecosystem: NodeJS | ReactJS | React Native and .NET</li>
       <li>☁️ Experience about GCP, Azure, Firebase and AWS</li>
@@ -24,7 +24,7 @@
 
 <div>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Nodejs" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="Nestjs"/>
+    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=nestjs&theme=light" title="Nestjs"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
@@ -47,7 +47,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services"/>
+    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=aws&theme=light" title="Amazon Web Services"/>
 </div>
 
 ##
