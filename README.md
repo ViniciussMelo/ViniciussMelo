@@ -8,7 +8,7 @@
       <li>🇧🇷 I'm from Brazil</li>
       <li>💻 Backend engineer - Node.js | NestJS | ReactJS | Microservice | AWS</li>
       <li>📚 Computer Scientist</li>
-      <li>🤓 Knowledge about SQL / NoSQL, Javascript ecosystem: NodeJS | ReactJS | React Native and .NET</li>
+      <li>🤓 Knowledge about SQL / NoSQL, Javascript ecosystem: NodeJS | NestJS | ReactJS | React Native and .NET</li>
       <li>☁️ Experience about GCP, Azure, Firebase and AWS</li>
     </ul>    
 </div> 
